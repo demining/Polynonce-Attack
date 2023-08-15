@@ -1,4 +1,13 @@
+# Polynonce Attack
 
+---
+
+
+* Tutorial: https://youtu.be/7nKs_KHtyn4
+* Tutorial: https://cryptodeeptech.ru/polynonce-attack
+
+
+---
 
 
 <p>In this article, we will again touch on the topic:&nbsp;<strong><a href="https://cryptodeeptech.ru/blockchain-attack-vectors" target="_blank" rel="noreferrer noopener">“Bitcoin’s Critical Vulnerability”</a></strong>&nbsp;and use the brand new attack of 2023&nbsp;<a href="https://cryptodeeptech.ru/polynonce-attack" target="_blank" rel="noreferrer noopener"><strong>“POLYNONCE ATTACK”</strong></a>&nbsp;on all three examples .&nbsp;The very first mention of this attack is described in an article from&nbsp;<strong><a href="https://research.kudelskisecurity.com/2023/03/06/polynonce-a-tale-of-a-novel-ecdsa-attack-and-bitcoin-tears/" target="_blank" rel="noreferrer noopener">“Kudelski Security”</a></strong>&nbsp;.<strong><a href="https://cryptodeeptech.ru/blockchain-attack-vectors" target="_blank" rel="noreferrer noopener"></a></strong><a href="https://cryptodeeptech.ru/polynonce-attack" target="_blank" rel="noreferrer noopener"><strong></strong></a><strong><a href="https://research.kudelskisecurity.com/2023/03/06/polynonce-a-tale-of-a-novel-ecdsa-attack-and-bitcoin-tears/" target="_blank" rel="noreferrer noopener"></a></strong></p>
